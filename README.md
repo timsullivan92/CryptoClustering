@@ -1,7 +1,7 @@
 # CryptoClustering
 Module 19 Challenge - Crypto Clustering
 
-##Steps:
+## Steps:
 
 1. Prepare the Data
 Create a DataFrame with the scaled data and set the "coin_id" index from the original DataFrame as the index.
